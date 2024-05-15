@@ -7,7 +7,7 @@ public class ContaTerminal {
     public static void main(String[] args){   
           Scanner numero = new Scanner(System.in);  // Create a Scanner object
 
-            System.out.println("Por favor,digite o número da Agencia 5");
+            System.out.println("Por favor,digite o número da Agencia ");
             String agencia1= numero.nextLine();  // Read user inputluis
         
             System.out.println("Por favor,digite o nome do Cliente");
